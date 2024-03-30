@@ -1,3 +1,4 @@
 let Greetings = "Hello To GitHub";
-console.log(Greetings);
+let userName = "Sir Zia Khan";
+console.log(Greetings, '' + userName);
 export {};
